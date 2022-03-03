@@ -13,6 +13,17 @@
 		127CBF8527C50468001C86C5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 127CBF8327C50468001C86C5 /* Main.storyboard */; };
 		127CBF8727C5046A001C86C5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 127CBF8627C5046A001C86C5 /* Assets.xcassets */; };
 		127CBF8A27C5046A001C86C5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 127CBF8827C5046A001C86C5 /* LaunchScreen.storyboard */; };
+		127CBF9B27C51746001C86C5 /* tacmahal.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 127CBF9127C51746001C86C5 /* tacmahal.jpeg */; };
+		127CBF9C27C51746001C86C5 /* greatwall.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 127CBF9227C51746001C86C5 /* greatwall.jpeg */; };
+		127CBF9D27C51746001C86C5 /* anitkabir.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 127CBF9327C51746001C86C5 /* anitkabir.jpeg */; };
+		127CBF9E27C51746001C86C5 /* colesseum.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 127CBF9427C51746001C86C5 /* colesseum.jpeg */; };
+		127CBF9F27C51746001C86C5 /* ahtamar.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 127CBF9527C51746001C86C5 /* ahtamar.jpeg */; };
+		127CBFA027C51746001C86C5 /* galata.png in Resources */ = {isa = PBXBuildFile; fileRef = 127CBF9627C51746001C86C5 /* galata.png */; };
+		127CBFA127C51746001C86C5 /* balikligol.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 127CBF9727C51746001C86C5 /* balikligol.jpeg */; };
+		127CBFA227C51746001C86C5 /* kremlin.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 127CBF9827C51746001C86C5 /* kremlin.jpeg */; };
+		127CBFA327C51746001C86C5 /* stonehenge.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 127CBF9927C51746001C86C5 /* stonehenge.jpeg */; };
+		127CBFA427C51746001C86C5 /* ulucamii.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 127CBF9A27C51746001C86C5 /* ulucamii.jpeg */; };
+		127CBFA627C539B1001C86C5 /* imageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 127CBFA527C539B1001C86C5 /* imageViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +35,17 @@
 		127CBF8627C5046A001C86C5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		127CBF8927C5046A001C86C5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		127CBF8B27C5046A001C86C5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		127CBF9127C51746001C86C5 /* tacmahal.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tacmahal.jpeg; sourceTree = SOURCE_ROOT; };
+		127CBF9227C51746001C86C5 /* greatwall.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = greatwall.jpeg; sourceTree = SOURCE_ROOT; };
+		127CBF9327C51746001C86C5 /* anitkabir.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = anitkabir.jpeg; sourceTree = SOURCE_ROOT; };
+		127CBF9427C51746001C86C5 /* colesseum.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = colesseum.jpeg; sourceTree = SOURCE_ROOT; };
+		127CBF9527C51746001C86C5 /* ahtamar.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ahtamar.jpeg; sourceTree = SOURCE_ROOT; };
+		127CBF9627C51746001C86C5 /* galata.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = galata.png; sourceTree = SOURCE_ROOT; };
+		127CBF9727C51746001C86C5 /* balikligol.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = balikligol.jpeg; sourceTree = SOURCE_ROOT; };
+		127CBF9827C51746001C86C5 /* kremlin.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kremlin.jpeg; sourceTree = SOURCE_ROOT; };
+		127CBF9927C51746001C86C5 /* stonehenge.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = stonehenge.jpeg; sourceTree = SOURCE_ROOT; };
+		127CBF9A27C51746001C86C5 /* ulucamii.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ulucamii.jpeg; sourceTree = SOURCE_ROOT; };
+		127CBFA527C539B1001C86C5 /* imageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = imageViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,9 +78,20 @@
 		127CBF7C27C50468001C86C5 /* LandmarkBookIos */ = {
 			isa = PBXGroup;
 			children = (
+				127CBF9527C51746001C86C5 /* ahtamar.jpeg */,
+				127CBF9327C51746001C86C5 /* anitkabir.jpeg */,
+				127CBF9727C51746001C86C5 /* balikligol.jpeg */,
+				127CBF9427C51746001C86C5 /* colesseum.jpeg */,
+				127CBF9627C51746001C86C5 /* galata.png */,
+				127CBF9227C51746001C86C5 /* greatwall.jpeg */,
+				127CBF9827C51746001C86C5 /* kremlin.jpeg */,
+				127CBF9927C51746001C86C5 /* stonehenge.jpeg */,
+				127CBF9127C51746001C86C5 /* tacmahal.jpeg */,
+				127CBF9A27C51746001C86C5 /* ulucamii.jpeg */,
 				127CBF7D27C50468001C86C5 /* AppDelegate.swift */,
 				127CBF7F27C50468001C86C5 /* SceneDelegate.swift */,
 				127CBF8127C50468001C86C5 /* ViewController.swift */,
+				127CBFA527C539B1001C86C5 /* imageViewController.swift */,
 				127CBF8327C50468001C86C5 /* Main.storyboard */,
 				127CBF8627C5046A001C86C5 /* Assets.xcassets */,
 				127CBF8827C5046A001C86C5 /* LaunchScreen.storyboard */,
@@ -125,8 +158,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				127CBFA027C51746001C86C5 /* galata.png in Resources */,
+				127CBF9B27C51746001C86C5 /* tacmahal.jpeg in Resources */,
+				127CBF9D27C51746001C86C5 /* anitkabir.jpeg in Resources */,
+				127CBFA127C51746001C86C5 /* balikligol.jpeg in Resources */,
+				127CBF9C27C51746001C86C5 /* greatwall.jpeg in Resources */,
 				127CBF8A27C5046A001C86C5 /* LaunchScreen.storyboard in Resources */,
+				127CBF9E27C51746001C86C5 /* colesseum.jpeg in Resources */,
+				127CBFA327C51746001C86C5 /* stonehenge.jpeg in Resources */,
+				127CBFA427C51746001C86C5 /* ulucamii.jpeg in Resources */,
 				127CBF8727C5046A001C86C5 /* Assets.xcassets in Resources */,
+				127CBF9F27C51746001C86C5 /* ahtamar.jpeg in Resources */,
+				127CBFA227C51746001C86C5 /* kremlin.jpeg in Resources */,
 				127CBF8527C50468001C86C5 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -140,6 +183,7 @@
 			files = (
 				127CBF8227C50468001C86C5 /* ViewController.swift in Sources */,
 				127CBF7E27C50468001C86C5 /* AppDelegate.swift in Sources */,
+				127CBFA627C539B1001C86C5 /* imageViewController.swift in Sources */,
 				127CBF8027C50468001C86C5 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -294,6 +338,7 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -321,6 +366,7 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
